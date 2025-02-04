@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\CVSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.service\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|solutionrelative:cvsite.service\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.service\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|solutionrelative:cvsite.service\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.service\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|solutionrelative:cvsite.service\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.service\\githubintegrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|solutionrelative:cvsite.service\\githubintegrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.service\\dataentities\\repositorydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|solutionrelative:cvsite.service\\dataentities\\repositorydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.service\\dataentities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|solutionrelative:cvsite.service\\dataentities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.api\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|solutionrelative:cvsite.api\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.api\\cachedservices\\cachedgithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|solutionrelative:cvsite.api\\cachedservices\\cachedgithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|solutionrelative:cvsite.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\c6ac0be8-adec-417b-9e69-690d7fba473c\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.service\\cvsite.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8831B41-BB06-42E8-831B-96CEC059761C}|CVSite.Service\\CVSite.Service.csproj|solutionrelative:cvsite.service\\cvsite.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.api\\cvsite.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|solutionrelative:cvsite.api\\cvsite.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|solutionrelative:cvsite.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|solutionrelative:cvsite.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|c:\\users\\user1\\desktop\\cvsite\\cvsite.api\\cvsite.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9EA7CB4-BA33-4B6C-A6E7-8EC98705F6DD}|CVSite.API\\CVSite.API.csproj|solutionrelative:cvsite.api\\cvsite.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryDetails.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\DataEntities\\RepositoryDetails.cs",
+              "RelativeDocumentMoniker": "CVSite.Service\\DataEntities\\RepositoryDetails.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\DataEntities\\RepositoryDetails.cs",
+              "RelativeToolTip": "CVSite.Service\\DataEntities\\RepositoryDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T21:32:29.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\DataEntities\\Portfolio.cs",
+              "RelativeDocumentMoniker": "CVSite.Service\\DataEntities\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\DataEntities\\Portfolio.cs",
+              "RelativeToolTip": "CVSite.Service\\DataEntities\\Portfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:38:06.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\Extensions.cs",
+              "RelativeDocumentMoniker": "CVSite.Service\\Extensions.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\Extensions.cs",
+              "RelativeToolTip": "CVSite.Service\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:30:00.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GitHubIntegrationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\GitHubIntegrationOptions.cs",
+              "RelativeDocumentMoniker": "CVSite.Service\\GitHubIntegrationOptions.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\GitHubIntegrationOptions.cs",
+              "RelativeToolTip": "CVSite.Service\\GitHubIntegrationOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:16:13.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\GitHubService.cs",
+              "RelativeDocumentMoniker": "CVSite.Service\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\GitHubService.cs",
+              "RelativeToolTip": "CVSite.Service\\GitHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:48:19.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\IGitHubService.cs",
+              "RelativeDocumentMoniker": "CVSite.Service\\IGitHubService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\IGitHubService.cs",
+              "RelativeToolTip": "CVSite.Service\\IGitHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:52:02.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GitHubController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\Controllers\\GitHubController.cs",
+              "RelativeDocumentMoniker": "CVSite.API\\Controllers\\GitHubController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\Controllers\\GitHubController.cs",
+              "RelativeToolTip": "CVSite.API\\Controllers\\GitHubController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:51:30.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CachedGitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\CachedServices\\CachedGitHubService.cs",
+              "RelativeDocumentMoniker": "CVSite.API\\CachedServices\\CachedGitHubService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\CachedServices\\CachedGitHubService.cs",
+              "RelativeToolTip": "CVSite.API\\CachedServices\\CachedGitHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:45:40.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\Program.cs",
+              "RelativeDocumentMoniker": "CVSite.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\Program.cs",
+              "RelativeToolTip": "CVSite.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:19:22.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\c6ac0be8-adec-417b-9e69-690d7fba473c\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\c6ac0be8-adec-417b-9e69-690d7fba473c\\secrets.json",
+              "ToolTip": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\c6ac0be8-adec-417b-9e69-690d7fba473c\\secrets.json",
+              "RelativeToolTip": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\c6ac0be8-adec-417b-9e69-690d7fba473c\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T09:56:24.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CVSite.Service",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\CVSite.Service.csproj",
+              "RelativeDocumentMoniker": "CVSite.Service\\CVSite.Service.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.Service\\CVSite.Service.csproj",
+              "RelativeToolTip": "CVSite.Service\\CVSite.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T17:51:37.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CVSite.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\appsettings.json",
+              "RelativeToolTip": "CVSite.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T21:45:20.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CVSite.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\WeatherForecast.cs",
+              "RelativeToolTip": "CVSite.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:48:55.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CVSite.API.http",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\CVSite.API.http",
+              "RelativeDocumentMoniker": "CVSite.API\\CVSite.API.http",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\CVSite.API.http",
+              "RelativeToolTip": "CVSite.API\\CVSite.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-04T10:01:56.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CVSite.API.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\CVSite.API.csproj",
+              "RelativeDocumentMoniker": "CVSite.API\\CVSite.API.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CVSite\\CVSite.API\\CVSite.API.csproj",
+              "RelativeToolTip": "CVSite.API\\CVSite.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T20:42:23.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

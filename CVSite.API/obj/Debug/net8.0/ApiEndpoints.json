@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "CVSite.API.Controllers.GitHubController",
+    "Method": "GetUserFollowers",
+    "RelativePath": "api/github/followers/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CVSite.API.Controllers.GitHubController",
+    "Method": "GetPortfolio",
+    "RelativePath": "api/github/portfolio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CVSite.API.Controllers.GitHubController",
+    "Method": "SearchRepositories",
+    "RelativePath": "api/github/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "repositoryName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "user",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
